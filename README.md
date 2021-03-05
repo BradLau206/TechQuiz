@@ -18,4 +18,4 @@ LOSING CONDITION:
   Answering 3 questions incorrectly.
 
 WINNING CONDITION:
-  Answers all questions from all 4 categories correctly (below 3 mistakes are tolerated).
+  Answers all questions from all 4 categories correctly (2 mistakes are tolerated).
